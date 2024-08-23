@@ -12,7 +12,7 @@ const DIRECTION_RIGHT = 4;
 const DIRECTION_UP = 3;
 const DIRECTION_LEFT = 2;
 const DIRECTION_BOTTOM = 1;
-let lives = 3;
+let lives = 7;
 let ghostCount = 2;
 let ghostImageLocations = [
     { x: 0, y: 0 },
